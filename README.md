@@ -4,6 +4,10 @@
 
 This project explores employee attrition patterns in a fictional organization. I used **MySQL** to prepare and analyze the data, then built an interactive **Power BI dashboard** to present insights that can support HR decision-making.
 
+
+<img width="644" alt="HR-ATTRITION-PIC" src="https://github.com/user-attachments/assets/80e8a501-1416-4483-a32f-fe8281859126" /> 
+
+
 ### Data Sources
 The primary data set used for this analysis is fictional and was created by IBM scientists. [Download Here](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
@@ -24,7 +28,7 @@ The primary data set used for this analysis is fictional and was created by IBM 
 - Exported summary tables for clean import into Power BI
 
 ### 2. Dashboard Development (Power BI)
-- Created cards for Key Insights and Total employees, and built visuals like:
+- Created cards for Key Insights and Total employees, and built visuals including:
   - Attrition by Tenure Group
   - Attrition by Job Role
   - Attrition by Age Group and Gender
